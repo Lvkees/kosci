@@ -1,4 +1,4 @@
-# kosci
+# lvkees_kosci
 Prosty skrypt na kamien papier nozyce. Wyswietlanie - 3dMe
 
 /kosci
